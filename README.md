@@ -8,6 +8,7 @@
 - [Neurable](https://www.neurable.com/)
 - [Muse](https://choosemuse.com/)
 - [OpenBCI](https://openbci.com/)
+- [Backyard Brains](https://backyardbrains.com/)
 - [Neuralink](https://neuralink.com/)
 - [Numenta](https://numenta.com/)
 
