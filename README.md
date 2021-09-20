@@ -27,6 +27,7 @@
 # Techstack
 - [Neural Signal Processing and Analysis](https://www.udemy.com/course/solved-challenges-ants/?src=sac&kw=neural+Signal+Processing)
 
+# Ethics
 
 # Feel free to collaborate!
 ![AL 2](https://i.pinimg.com/originals/54/7a/8f/547a8f72542e0bf2f473ee4d8e0738b9.jpg)
