@@ -1,6 +1,5 @@
-# ALBCIs
-## (Alexandria Library for Brain Computer Interfaces)
-Everything you need to know to get started in BCIs and build your own.
+# ALBCIs (Alexandria Library for Brain Computer Interfaces)
+## Everything you need to know to get started in BCIs and build your own.
 
 ![AL 1](https://upload.wikimedia.org/wikipedia/commons/6/64/Ancientlibraryalex.jpg)
 
