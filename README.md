@@ -7,6 +7,7 @@
 - [Neurosity](https://neurosity.co/)
 - [Neurable](https://www.neurable.com/)
 - [Muse](https://choosemuse.com/)
+- [OpenBCI](https://openbci.com/)
 - [Neuralink](https://neuralink.com/)
 - [Numenta](https://numenta.com/)
 
