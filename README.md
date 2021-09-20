@@ -1,6 +1,8 @@
 # ALBCIs
 Alexandria Library for Brain Computer Interfaces
 
+![AL](https://upload.wikimedia.org/wikipedia/commons/6/64/Ancientlibraryalex.jpg)
+
 # Companies
 - [Neurosity](https://neurosity.co/)
 - [Neurable](https://www.neurable.com/)
