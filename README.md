@@ -10,6 +10,12 @@
 - [Neuralink](https://neuralink.com/)
 - [Numenta](https://numenta.com/)
 
+# Movies
+- [The Matrix](https://www.imdb.com/title/tt0133093/?ref_=nv_sr_srsg_3)
+- [Replicas](https://www.imdb.com/title/tt4154916/?ref_=nv_sr_srsg_0)
+- [In Silico](https://www.imdb.com/title/tt11581002/?ref_=nv_sr_srsg_2)
+- [Ex Machina](https://www.imdb.com/title/tt0470752/)
+- [Doctor Strange](https://www.imdb.com/title/tt1211837/?ref_=nv_sr_srsg_3)
 
 # Neuromodulation
 - [Modalities](https://github.com/mwcvitkovic/neuromodulation_modalities)
