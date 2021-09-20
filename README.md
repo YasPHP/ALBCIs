@@ -14,7 +14,8 @@
 # Neuromodulation
 - [Modalities](https://github.com/mwcvitkovic/neuromodulation_modalities)
 
-
+# Techstack
+- [Neural Signal Processing and Analysis](https://www.udemy.com/course/solved-challenges-ants/?src=sac&kw=neural+Signal+Processing)
 
 
 # Feel free to collaborate!
