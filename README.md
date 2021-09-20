@@ -7,8 +7,6 @@
 - [Neurosity](https://neurosity.co/)
 - [Neurable](https://www.neurable.com/)
 - [Muse](https://choosemuse.com/)
-- [OpenBCI](https://openbci.com/)
-- [Backyard Brains](https://backyardbrains.com/)
 - [Neuralink](https://neuralink.com/)
 - [Numenta](https://numenta.com/)
 
@@ -18,6 +16,10 @@
 - [In Silico](https://www.imdb.com/title/tt11581002/?ref_=nv_sr_srsg_2)
 - [Ex Machina](https://www.imdb.com/title/tt0470752/)
 - [Doctor Strange](https://www.imdb.com/title/tt1211837/?ref_=nv_sr_srsg_3)
+
+# Hardware
+- [Backyard Brains](https://backyardbrains.com/)
+- [AdaFruit](https://www.adafruit.com/?q=brain&sort=BestMatch)
 
 # Neuromodulation
 - [Modalities](https://github.com/mwcvitkovic/neuromodulation_modalities)
