@@ -10,6 +10,10 @@
 - [Neuralink](https://neuralink.com/)
 - [Numenta](https://numenta.com/)
 
+# Independent Research Houses
+- [Brane Graphene Interface](http://braneinterface.com/)
+- [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en)
+
 # Movies
 - [The Matrix](https://www.imdb.com/title/tt0133093/?ref_=nv_sr_srsg_3)
 - [Replicas](https://www.imdb.com/title/tt4154916/?ref_=nv_sr_srsg_0)
